@@ -1,4 +1,4 @@
-# Lung Tumor Segmentation
+# PET-CT Lung Tumor Segmentation
   The official codes for ["Cross modality fusion for modality-specific lung tumor segmentation in PET-CT images"](https://pubmed.ncbi.nlm.nih.gov/36220014/).  
 ## Senario
   Due to respiration and movement, the lung tumor varies largely in PET images and CT images.  
